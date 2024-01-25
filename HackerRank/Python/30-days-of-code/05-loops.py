@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 if __name__ == '__main__':
     # Get an integer input from the user
     n = int(input().strip())
